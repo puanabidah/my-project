@@ -1,0 +1,74 @@
+{
+  "Header": {
+    "title": "Skin Lesion Detection",
+    "paragraph": "With our machine learning model, our application can predict the type of skin lesion from your dermoscopy image."
+  },
+  "About": {
+    "paragraph1": "Lesi kulit (skin lesion) adalah bagian dari kulit yang memiliki pertumbuhan atau penampilan yang tidak normal dibandingkan dengan kulit di sekitarnya. Lesi kulit dapat bersifat tidak ganas (non-kanker) atau ganas (kanker). Skin cancer atau kanker kulit berasal dari pertumbuhan sel kulit yang tidak normal yang biasa disebut lesi kulit. Penyebab utama kanker kulit adalah paparan sinar matahari yang berbahaya yang dapat meningkatkan risiko seseorang terkena kanker kulit. Ini dapat muncul di berbagai bagian tubuh, tetapi lebih umum terjadi di bagian kepala, leher, wajah, dan tangan yang paling terpengaruh oleh sinar matahari yang merugikan.",
+    "paragraph2": "Lesi kulit yang jinak tidak bersifat kanker dan sering kali tidak berbahaya. Lesi ini adalah pertumbuhan abnormal pada kulit Anda. Sebagian besar lesi jinak tidak memerlukan perawatan lesi kulit jinak meliputi:",
+    "List": [
+      "Benign keratoses-like lesions",
+      "Melanocytic nevi",
+      "Dermatofibroma",
+      "Vascular lesions"
+    ],
+    "paragraph3": "Lesi kulit ganas adalah pertumbuhan sel kulit yang tidak normal dan merupakan kanker kulit. Penyebab utama kanker kulit adalah paparan sinar matahari yang berbahaya yang dapat meningkatkan risiko seseorang terkenakanker kulit. Ini dapat muncul di berbagai bagian tubuh, tetapi terpengaruh oleh sinar matahari yang merugikan. Beberapa jenis yang termasuk lesi kulit ganas (kanker) adalah sebagai berikut:",
+    "List2": ["Basal Cell Carcinoma", "Actinic keratoses", "Melanoma"],
+    "paragraph4": "Gejala lesi kulit Anda dapat bervariasi, tergantung pada jenis lesi yang Anda alami. Gejala umum meliputi:",
+    "List3": [
+      "Pertumbuhan abnormal pada kulit.",
+      "Rasa gatal.",
+      "Pembengkakan.",
+      "Nyeri."
+    ],
+    "paragraph5": "Karena ada berbagai macam lesi kulit yang ada, ada banyak kemungkinan penyebabnya, termasuk:",
+    "List4": [
+      "Ada sejak lahir (tahi lalat, tanda lahir) (moles, birthmarks)",
+      "Infeksi virus (HIV, HPV)",
+      "Infeksi bakteri (herpes, staphylococcus)",
+      "Reaksi alergi",
+      "Efek samping dari pengobatan (chemotherapy)",
+      "Terbakar sinar matahari, luka",
+      "Kondisi medis yang mendasari (sirkulasi yang buruk, penyakit autoimun, kanker, penyakit hati atau ginjal)"
+    ],
+    "paragraph6": "Penyedia layanan kesehatan mendiagnosis lesi kulit dengan memeriksa kulit Anda secara fisik. Mereka akan melihat kulit Anda dengan mata mereka, tetapi juga dapat menggunakan kaca pembesar seperti dermatoskop atau alat lain untuk melihat kulit Anda dengan lebih baik. Mereka akan melihat secara spesifik karakteristik lesi, termasuk ukuran, bentuk, dan warna. Penyedia layanan medis juga ingin mengetahui riwayat kesehatan Anda, termasuk alergi, pengobatan yang sedang dijalani, penyakit kronis atau kondisi kesehatan, paparan sinar matahari, dan riwayat keluarga.",
+    "paragraph7": "Lesi kulit jinak dapat dihilangkan jika Anda tidak menyukai tampilannya pada kulit Anda. Dokter akan mengangkat lesi sesuai prosedur mereka. Jika Anda menderita kanker kulit, dokter akan membicarakan pilihan perawatan yang disesuaikan untuk Anda."
+  },
+  "Lesions": [
+    {
+      "img": "img/lesions/benign_keratoses_like-lesions.jpg",
+      "title": "Benign keratoses-like lesions",
+      "text": "Benign keratoses-like lesions (bkl) merupakan kelas lesi kulit yang bersifat jinak itu mencakup beberapa penyakit seperti seborrheic keratoses, solar lentigo,dan lichen-planus like keratoses. Ketiga kelompok ini mungkin tampak berbeda secara dermatoskopis, tetapi dalam dataset tersebut mereka dikelompokkan bersama karena memiliki kesamaan biologis dan secara histopatologis."
+    },
+    {
+      "img": "img/lesions/melanocytic_nevi.jpg",
+      "title": "Melanocytic nevi",
+      "text": "Melanocytic nevi (nv), biasa disebut tanda lahir atau tahi lalat, ini merupakan lesi kulit jinak yang umum disebabkan oleh proliferasi lokal sel pigmen (melanocytic). Berwarna coklat atau hitam yang mengandung pigmen melanin."
+    },
+    {
+      "img": "img/lesions/dermatofibroma.jpg",
+      "title": "Dermatofibroma",
+      "text": "Dermatofibroma (df), berasal dari sel fibrous, merupakan lesi jinak yang muncul sebagai satu atau beberapa papula dermal yang keras, serta berwarna merah muda, kuning kecoklatan, atau coklat. Dermatofibroma sebagian besar ditemui pada orang dewasa, biasa lebih umum terjadi pada wanita daripada pria, meskipun beberapa varian histologis lebih sering diidentifikasi pada pria."
+    },
+    {
+      "img": "img/lesions/vascular_lesions.jpg",
+      "title": "Vascular lesions",
+      "text": "Vascular lesions (vasc) merupakan lesi kulit jinak, lebih dikenal sebagai tanda lahir. Ada tiga kategori utama vascular lesions yaitu sebagai berikut: Angioma/Hemangioma, Pyogenic Granuloma, Vascular Malformations."
+    },
+    {
+      "img": "img/lesions/basal_cell_carcinoma.jpg",
+      "title": "Basal Cell Carcinoma",
+      "text": "Basal Cell Carcinoma (bcc) merupakan jenis kanker kulit non-melanoma yang paling umum, disebut juga sebagai keratinocyte cancer, dan bersifat lokal invasif, yang berarti bahwa biasanya tumbuh secara perlahan dan terbatas pada area kulit di sekitarnya."
+    },
+    {
+      "img": "img/lesions/actinic_keratoses.jpg",
+      "title": "Actinic keratoses",
+      "text": "Actinic keratoses (akiec) adalah bercak bersisik pra-kanker yang ditemukan pada kulit yang rusak akibat paparan sinar matahari, dikenal juga sebagai solar keratosis, serta potensi dari lesi ini untuk berkembang menjadi kanker ganas yang invasif dianggap rendah. Ini mungkin dianggap sebagai bentuk awal dari squamous cell carcinoma (keratinocyte cancer). Ini menyerang orang yang sering tinggal di daerah tropis atau subtropis yang sering terpapar sinar matahari tanpa perlindungan dalam jangka waktu yang lama, ataupun yang memiliki kekebalan tubuh yang kurang baik."
+    },
+    {
+      "img": "img/lesions/melanoma.jpg",
+      "title": "Melanoma",
+      "text": "Melanoma (mel), disebut juga sebagai melanoma ganas, adalah kanker kulit yang berpotensi sangat serius di mana terjadi pertumbuhan tak terkendali dari sel melanosit (sel pigmen). Melanosit yang biasa ditemukan di lapisan basal dari epidermis (lapisan luar kulit), memproduksi protein yang disebut melanin, yang melindungi sel kulit dengan menyerap radiasi ultraviolet (UV). Pertumbuhan non-kanker dari melanosit menghasilkan tahi lalat (melanocytic nevi jinak) dan freckles (ephelides dan lentigines). Sebaliknya, pertumbuhan kanker dari melanosit menghasilkan melanoma."
+    }
+  ]
+}
